@@ -1,0 +1,40 @@
+{
+  "format": 1,
+  "name": "Catálogo oficial do Block Miner",
+  "mods": [
+    {
+      "id": "blocos_de_cores",
+      "name": "Blocos de Cores",
+      "version": "1.0.0",
+      "description": "Azulejos esmaltados em 8 cores, com lajes e escadas. Receita: 4 terracotas da cor em quadrado 2x2 dao 4 azulejos.",
+      "authors": [
+        "Equipe Block Miner"
+      ],
+      "api": 1,
+      "side": "both",
+      "url": "https://raw.githubusercontent.com/Gabriel9536/mygamemods/main/mods/blocos_de_cores-1.0.0.bmmod",
+      "sha256": "d1e22cce162d200eeceafa3a776980f9361219bfe2cf2111a70c88dde850b28e",
+      "size": 26312,
+      "dependencies": {
+        "blockminer": ">=0.1.0"
+      }
+    },
+    {
+      "id": "lanternas",
+      "name": "Lanternas",
+      "version": "1.1.0",
+      "description": "Lanterna de papel (luz 15) e luminaria de vidro fosco (luz 15) para iluminar construcoes.",
+      "authors": [
+        "Equipe Block Miner"
+      ],
+      "api": 1,
+      "side": "both",
+      "url": "https://raw.githubusercontent.com/Gabriel9536/mygamemods/main/mods/lanternas-1.1.0.bmmod",
+      "sha256": "6165a049ab89c3acc175f49f178b54b48170866df43681aaad635a1a7857d680",
+      "size": 13730,
+      "dependencies": {
+        "blockminer": ">=0.1.0"
+      }
+    }
+  ]
+}

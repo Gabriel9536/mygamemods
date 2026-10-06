@@ -40,6 +40,26 @@
       }
     },
     {
+      "id": "engenho",
+      "name": "Engenho",
+      "version": "0.2.0",
+      "description": "Eixos, engrenagens, rodas d'água e motores movem mós, rolos trituradores, prensas, batedeiras, ventoinhas, esteiras e funis. Fluidos, engenhocas e trens chegam nas próximas versões.",
+      "authors": [
+        "Equipe Block Miner"
+      ],
+      "api": 2,
+      "side": "both",
+      "engine_features": [
+        "mechanics@1"
+      ],
+      "url": "https://raw.githubusercontent.com/Gabriel9536/mygamemods/main/mods/engenho-0.2.0.bmmod",
+      "sha256": "f61604f0a6c64a2c5369b15bd82503ef225c4c898db56c53b17d122140d6568f",
+      "size": 1095256,
+      "dependencies": {
+        "blockminer": ">=0.1.0"
+      }
+    },
+    {
       "id": "lanternas",
       "name": "Lanternas",
       "version": "1.1.0",

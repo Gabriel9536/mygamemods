@@ -60,6 +60,26 @@
       }
     },
     {
+      "id": "engenho",
+      "name": "Engenho",
+      "version": "0.3.0",
+      "description": "Eixos, engrenagens, rodas d'água e motores movem mós, rolos trituradores, prensas, batedeiras, ventoinhas, esteiras, funis, bombas e braços robóticos. Canos, tanques, ralos e bicos dosadores levam água, lava, garapa, chocolate, café e leite; o queimador aquece e superaquece o tacho. Engenhocas e trens chegam nas próximas versões.",
+      "authors": [
+        "Equipe Block Miner"
+      ],
+      "api": 2,
+      "side": "both",
+      "engine_features": [
+        "mechanics@1"
+      ],
+      "url": "https://raw.githubusercontent.com/Gabriel9536/mygamemods/main/mods/engenho-0.3.0.bmmod",
+      "sha256": "9777a0748c1c66980dbf999a8b003d897bfdca37711ab101f8bc50e4966cfbfe",
+      "size": 1579581,
+      "dependencies": {
+        "blockminer": ">=0.1.0"
+      }
+    },
+    {
       "id": "lanternas",
       "name": "Lanternas",
       "version": "1.1.0",

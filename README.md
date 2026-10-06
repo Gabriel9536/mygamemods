@@ -9,7 +9,7 @@ Antes de instalar, o jogo confere o **sha256** e o tamanho de cada arquivo: se n
 | Mod | Versão | O que faz |
 |---|---|---|
 | Blocos de Cores | 1.0.0 | Azulejos esmaltados em 8 cores, com lajes e escadas |
-| Engenho | 0.2.0 | Máquinas movidas a rotação: eixos, engrenagens, manivela, rodas d'água, motor, regulador, programador de giro, medidores e esteiras com itens; novo: mó, rolos trituradores, prensa + bandeja, batedeira + tacho (bronze), ventoinha (lavar/defumar/fundir) e funil |
+| Engenho | 0.3.0 | Máquinas movidas a rotação: eixos, engrenagens, motores, mó, rolos trituradores, prensa, batedeira + tacho, ventoinha, funis e esteiras com itens; novo: fluidos (canos, bomba, tanques, ralo, bico dosador; garapa, chocolate, café, leite), queimador superaquecido, funil de bronze com filtro e braço robótico |
 | Lanternas | 1.1.0 | Lanterna de papel e luminária de vidro fosco (luz 15) |
 
 ## Como publicar um mod novo ou uma versão nova

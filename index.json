@@ -20,6 +20,26 @@
       }
     },
     {
+      "id": "engenho",
+      "name": "Engenho",
+      "version": "0.1.0",
+      "description": "Eixos, engrenagens, manivelas, rodas d'água, motores e esteiras: máquinas movidas a rotação. Engenhocas e trens chegam nas próximas versões.",
+      "authors": [
+        "Equipe Block Miner"
+      ],
+      "api": 2,
+      "side": "both",
+      "engine_features": [
+        "mechanics@1"
+      ],
+      "url": "https://raw.githubusercontent.com/Gabriel9536/mygamemods/main/mods/engenho-0.1.0.bmmod",
+      "sha256": "1211bdc25cd35e924d86b31045794c1fcb47ac45dd76c7be74f688d1b67c4b4a",
+      "size": 603325,
+      "dependencies": {
+        "blockminer": ">=0.1.0"
+      }
+    },
+    {
       "id": "lanternas",
       "name": "Lanternas",
       "version": "1.1.0",

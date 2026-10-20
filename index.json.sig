@@ -1,0 +1,6 @@
+{
+  "format": 1,
+  "algorithm": "ed25519",
+  "key_id": "cd9ee2ceaba681f0",
+  "signature": "5a34fd8754a83e2604f144dd12496f7833d310569810d3ff49b885b463c57c5cf7ec3606d18825561ae3b587766b8e109fb22316942b353a5a12f46d754dc805"
+}

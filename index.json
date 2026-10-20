@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "name": "Catálogo oficial do Block Miner",
+  "name": "Catalogo de mods do Block Miner",
   "mods": [
     {
       "id": "blocos_de_cores",
@@ -75,6 +75,26 @@
       "url": "https://raw.githubusercontent.com/Gabriel9536/mygamemods/main/mods/engenho-0.3.0.bmmod",
       "sha256": "9777a0748c1c66980dbf999a8b003d897bfdca37711ab101f8bc50e4966cfbfe",
       "size": 1579581,
+      "dependencies": {
+        "blockminer": ">=0.1.0"
+      }
+    },
+    {
+      "id": "engenho",
+      "name": "Engenho",
+      "version": "1.0.0",
+      "description": "Eixos, engrenagens, rodas d'água, motores e caldeiras a vapor movem mós, trituradores, prensas, batedeiras, ventoinhas, serras, esteiras, funis, bombas e braços robóticos. Canos e tanques levam fluidos. Êmbolos, rolamentos, guinchos e brocas movem engenhocas; vagonetes e trens com estações, sinais e itinerários correm nos trilhos. Encomendas, cofres e painéis. Decoração com pedras, telhas de cobre que oxidam e molduras camaleão; cetro espelhado, lança-legumes, cilindro de ar com escafandro, maletas, esquemas impressos pelo canhão construtor e o Guia Animado (tecla H).",
+      "authors": [
+        "Equipe Block Miner"
+      ],
+      "api": 2,
+      "side": "both",
+      "engine_features": [
+        "mechanics@1"
+      ],
+      "url": "https://raw.githubusercontent.com/Gabriel9536/mygamemods/main/mods/engenho-1.0.0.bmmod",
+      "sha256": "e839d7c40e4732056b1ed233c5c767a3125080bf2380d72de0fea83bd7a8516a",
+      "size": 5015516,
       "dependencies": {
         "blockminer": ">=0.1.0"
       }
